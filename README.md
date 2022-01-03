@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Diana</h1>
 <h3 align="center">Fullstack developer</h3>
 <p>I recently graduated from my 🌱 ecology and :dna: genetics degree, where I had to code with a focus on :test_tube: data analysis for the laboratory and field research. That is where I discovered my passion for coding. Since then, I have studied :spider_web: web development at Le Wagon, where I gained more experience coding and widened my knowledge of :computer: programming languages.</p>
+<p>Currently, I am learning Django.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
