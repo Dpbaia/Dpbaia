@@ -8,6 +8,7 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://img2.freepng.es/20180516/fzw/kisspng-microsoft-sql-server-stored-procedure-table-query-5afc611bdb7bb5.327615301526489371899.jpg" alt="SQL" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -20,6 +21,9 @@
 
 
 <h3 align="left">Some of my projects:</h3>
-<p><a href="http://www.silverhelp.me/" target="_blank" rel="noreferrer">:older_woman: Silverhelp: Everyday life made easy </a></p>
-<p><a href="https://leave-your-shit.herokuapp.com/" target="_blank" rel="noreferrer">:luggage: Leave your shit: Find luggage storage near you</a> </p>
-<p><a href="https://watch-list-dpb.herokuapp.com/lists" target="_blank" rel="noreferrer">:clapper: Our Movies: Create anonymous lists to store movies</a></p>
+
+<p><a href="https://www.thegardenofyarns.com/amigurumis/" target="_blank" rel="noreferrer">🧶 The Garden of Yarns: Amigurumis made with love <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="15" height="15"/></a></p>
+<p><a href="http://www.silverhelp.me/" target="_blank" rel="noreferrer">:older_woman: Silverhelp: Everyday life made easy <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="15" height="15"/></a></p>
+<p><a href="https://leave-your-shit.herokuapp.com/" target="_blank" rel="noreferrer">:luggage: Leave your shit: Find luggage storage near you <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="15" height="15"/></a></p>
+<p><a href="https://watch-list-dpb.herokuapp.com/lists" target="_blank" rel="noreferrer">:clapper: Our Movies: Create anonymous lists to store movies <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="15" height="15"/></a></p>
+
