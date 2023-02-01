@@ -9,6 +9,8 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://img2.freepng.es/20180516/fzw/kisspng-microsoft-sql-server-stored-procedure-table-query-5afc611bdb7bb5.327615301526489371899.jpg" alt="SQL" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="MongoDB" width="40" height="40"/> </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
