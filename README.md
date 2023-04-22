@@ -21,9 +21,10 @@
 
 <h3 align="left">Some of my projects:</h3>
 
-<p><a href="https://github.com/Dpbaia/flask-calendar-integration" target="_blank" rel="noreferrer">📅 Google Appointment API <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="15" height="15"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github icon" width="18" height="18"/></a></p>
 
 <p><a href="https://www.thegardenofyarns.com/amigurumis/" target="_blank" rel="noreferrer">🧶 The Garden of Yarns: Amigurumis made with love <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="15" height="15" style="object-fit: scale-down;"/></a> <a href="https://github.com/Dpbaia/django-the-garden-of-yarns" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github icon" width="18" height="18"/></a></p>
+
+<p><a href="https://github.com/Dpbaia/flask-calendar-integration" target="_blank" rel="noreferrer">📅 Google Appointment API <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="15" height="15"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github icon" width="18" height="18"/></a></p>
 
 <p><a href="https://github.com/mhuylebroeck/silverhelp" target="_blank" rel="noreferrer">:older_woman: Silverhelp: Everyday life made easy <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="15" height="15"/></a> <a href="https://github.com/mhuylebroeck/silverhelp" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github icon" width="18" height="18"/></a></p>
 
